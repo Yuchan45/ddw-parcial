@@ -82,6 +82,10 @@ body {
   text-decoration: none;
 }
 
+.information > p > a:hover {
+  text-decoration: underline;
+}
+
 
 .footer {
   background-color: var(--ligth-gray);
