@@ -96,6 +96,7 @@ body {
   justify-content: center;
   align-items: center;
   bottom: 0;
+  overflow-y: hidden;
 }
 
 .footer > img {
